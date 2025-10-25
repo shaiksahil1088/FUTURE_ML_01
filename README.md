@@ -76,7 +76,7 @@ In this project, I built a predictive analytics dashboard to help retail busines
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SheldonDsouzaML/FUTURE_ML_01.git
+   git clone https://github.com/shaiksahil1088/FUTURE_ML_01
 2. Navigate into the project folder:
    cd FUTURE_ML_01/code
 
@@ -87,14 +87,14 @@ In this project, I built a predictive analytics dashboard to help retail busines
    python AI-Powered Sales Forecasting Dashboard.ipynb
 
 
-5. The forecast results will be exported as forecast_results.csv.
-   Open the Power BI file (AI-Powered Sales Forecasting Dashboard.pbix) to explore the dashboard.
+5. Open the Power BI file (AI-Powered Sales Forecasting Dashboard.pbix) to explore the dashboard.
+6. if any error displayed then use google colab i have used this...
 
 📌 Internship Details
 
 - **Internship Program** : Future Interns – Machine Learning Internship
 
-- **Candidate ID (CIN)** : FIT/SEP25/ML2769
+- **Candidate ID (CIN)** : FIT/OCT25/ML3261
 
 
 - **Task** : AI-Powered Sales Forecasting Dashboard (Task 1)
